@@ -1,0 +1,28 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.btn{
+  padding: 1em 2em;
+  border: 2px solid black;
+  margin-right: 1em;
+}
+
+.screen{
+  display: block;
+  justify-content: center;
+  text-align: center;
+  color: brown;
+  font-size: 40px;
+  margin-bottom: 1em;
+}
+
+.btn:hover{
+  background-color: black;
+  color: white;
+}
